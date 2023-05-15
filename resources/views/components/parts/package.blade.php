@@ -1,5 +1,5 @@
-<div class="">-
-    <div class="container-lg px-5">
+<div class="">
+    <div class="container-lg px-5 pb-5">
         <div class="py-5 mx-auto text-center px-2">
             <p class="fs-1 mt-3 fw-bold">
                 Cloud Hosting Indonesia <br> <strong class="text-primary"> Diskon Hingga 50%!</strong>
